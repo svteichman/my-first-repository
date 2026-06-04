@@ -6,3 +6,5 @@ Adding a new commit to my README.
 Adding a commit from RStudio.
 
 Adding another commit from GitHub. 
+
+Adding one more commit from GitHub.
